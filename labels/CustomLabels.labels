@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>AutoLicenseID</fullName>
+        <categories>Product Support</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AutoLicenseID</shortDescription>
+        <value>00G0b000002A6esEAC</value>
+    </labels>
+</CustomLabels>
