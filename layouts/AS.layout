@@ -12,6 +12,10 @@
                 <behavior>Readonly</behavior>
                 <field>Name</field>
             </layoutItems>
+			 <layoutItems>
+                <behavior>Readonly</behavior>
+                <field>NameNEW AWS</field>
+            </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>AWS_Product_Code__c</field>
