@@ -16,6 +16,7 @@
                 <behavior>Readonly</behavior>
                 <field>NameNEW AWS</field>
             </layoutItems>
+
 			<layoutItems>
                 <behavior>Readonly</behavior>
                 <field>NameNEW AWS2</field>
@@ -23,5 +24,16 @@
 			<layoutItems>
                 <behavior>Readonly</behavior>
                 <field>NameNEW AWS3</field>
+
+			
+			 <layoutItems>
+                <behavior>Readonly</behavior>
+                <field>NameNEW L20</field>
             </layoutItems>
+			
+			 <layoutItems>
+                <behavior>Readonly</behavior>
+                <field>NameNEW L20 2</field>
+
+        </layoutItems>
         </Layout>
